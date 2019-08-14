@@ -1,0 +1,29 @@
+{
+  "name": "reflect-injector",
+  "version": "0.0.1",
+  "description": "Module to inject reflect into your node process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://componentDidMount@github.com/linus-amg/reflect-injector.git"
+  },
+  "keywords": [],
+  "author": "Linus Gubenis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/linus-amg/reflect-injector/issues"
+  },
+  "homepage": "https://github.com/linus-amg/reflect-injector#readme",
+  "dependencies": {
+    "firebase": "^6.3.5",
+    "node-memwatch": "^1.0.1",
+    "usage": "^0.7.1",
+    "v8-profiler-next": "^1.1.1"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
