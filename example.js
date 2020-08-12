@@ -3,7 +3,7 @@ const reflectInjector = require('./');
 reflectInjector
   .initialize({
     email: 'elgubenis@gmail.com',
-    password: '****',
+    password: 'hackdays2019',
     instanceId: 'my-first-service'
   })
   .then(() => {
